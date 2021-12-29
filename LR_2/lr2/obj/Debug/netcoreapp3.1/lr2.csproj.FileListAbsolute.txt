@@ -1,0 +1,13 @@
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.csprojAssemblyReference.cache
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.AssemblyInfoInputs.cache
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.AssemblyInfo.cs
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.csproj.CoreCompileInputs.cache
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.exe
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.deps.json
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.json
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.dev.json
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.dll
+C:\3 sem\OOP\LR_2\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.pdb
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.dll
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.pdb
+C:\3 sem\OOP\LR_2\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.genruntimeconfig.cache
