@@ -1,0 +1,13 @@
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.exe
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.deps.json
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.runtimeconfig.json
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.runtimeconfig.dev.json
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.dll
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\bin\Debug\netcoreapp3.1\лр9-2.pdb
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.csprojAssemblyReference.cache
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.AssemblyInfoInputs.cache
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.AssemblyInfo.cs
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.csproj.CoreCompileInputs.cache
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.dll
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.pdb
+C:\3_sem\OOP\LR_9\лр9-2\лр9-2\obj\Debug\netcoreapp3.1\лр9-2.genruntimeconfig.cache
