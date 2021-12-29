@@ -1,0 +1,13 @@
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.exe
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.deps.json
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.runtimeconfig.json
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.runtimeconfig.dev.json
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.dll
+C:\3 sem\OOP\LR_4\LR_5\LR_5\bin\Debug\netcoreapp3.1\LR_5.pdb
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.csprojAssemblyReference.cache
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.AssemblyInfoInputs.cache
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.AssemblyInfo.cs
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.csproj.CoreCompileInputs.cache
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.dll
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.pdb
+C:\3 sem\OOP\LR_4\LR_5\LR_5\obj\Debug\netcoreapp3.1\LR_5.genruntimeconfig.cache
