@@ -1,0 +1,13 @@
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.exe
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.deps.json
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.runtimeconfig.json
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.runtimeconfig.dev.json
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.dll
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\bin\Debug\netcoreapp3.1\LR_14-client.pdb
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.csprojAssemblyReference.cache
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.AssemblyInfoInputs.cache
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.AssemblyInfo.cs
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.csproj.CoreCompileInputs.cache
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.dll
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.pdb
+C:\3_sem\OOP\LR_14\LR_14-client\LR_14-client\obj\Debug\netcoreapp3.1\LR_14-client.genruntimeconfig.cache

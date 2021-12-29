@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCircle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Circle>
+    <size>12</size>
+    <color>Red</color>
+  </Circle>
+  <Circle>
+    <size>2</size>
+    <color>Purple</color>
+  </Circle>
+  <Circle>
+    <size>5</size>
+    <color>Pink</color>
+  </Circle>
+  <Circle>
+    <size>33</size>
+    <color>Orange</color>
+  </Circle>
+  <Circle>
+    <size>52</size>
+    <color>White</color>
+  </Circle>
+</ArrayOfCircle>
