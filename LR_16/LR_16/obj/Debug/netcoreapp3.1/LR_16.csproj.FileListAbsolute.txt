@@ -1,0 +1,13 @@
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.exe
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.deps.json
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.runtimeconfig.json
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.runtimeconfig.dev.json
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.dll
+C:\3_sem\OOP\LR_16\LR_16\LR_16\bin\Debug\netcoreapp3.1\LR_16.pdb
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.csprojAssemblyReference.cache
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.AssemblyInfoInputs.cache
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.AssemblyInfo.cs
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.csproj.CoreCompileInputs.cache
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.dll
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.pdb
+C:\3_sem\OOP\LR_16\LR_16\LR_16\obj\Debug\netcoreapp3.1\LR_16.genruntimeconfig.cache

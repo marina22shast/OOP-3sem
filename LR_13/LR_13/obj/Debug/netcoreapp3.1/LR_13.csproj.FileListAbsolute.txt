@@ -1,0 +1,4 @@
+C:\3_sem\OOP\LR_13\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.csprojAssemblyReference.cache
+C:\3_sem\OOP\LR_13\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.AssemblyInfoInputs.cache
+C:\3_sem\OOP\LR_13\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.AssemblyInfo.cs
+C:\3_sem\OOP\LR_13\LR_13\LR_13\obj\Debug\netcoreapp3.1\LR_13.csproj.CoreCompileInputs.cache

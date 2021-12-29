@@ -1,0 +1,13 @@
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.exe
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.deps.json
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.runtimeconfig.json
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.runtimeconfig.dev.json
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.dll
+C:\3_sem\OOP\LR_15\LR_15\LR_15\bin\Debug\netcoreapp3.1\LR_15.pdb
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.csprojAssemblyReference.cache
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.AssemblyInfoInputs.cache
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.AssemblyInfo.cs
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.csproj.CoreCompileInputs.cache
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.dll
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.pdb
+C:\3_sem\OOP\LR_15\LR_15\LR_15\obj\Debug\netcoreapp3.1\LR_15.genruntimeconfig.cache
